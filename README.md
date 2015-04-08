@@ -1,7 +1,8 @@
 # Elastic-ember
 
 Using Elasticsearch with EmberJs.
-Elasticsearch | Search & Analyze Data in Real Time http://www.elastic.co/products/elasticsearch
+
+> Elasticsearch | Search & Analyze Data in Real Time http://www.elastic.co/products/elasticsearch
 
 ## Prerequisites
 
